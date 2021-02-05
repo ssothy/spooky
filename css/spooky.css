@@ -1,0 +1,50 @@
+@charset "UTF-8";
+/* CSS Document */
+.h1{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	letter-spacing: 8px;
+	font-size: 45px;
+	color: #303030;
+}
+.body {
+	background-color: #000000;
+}
+.nav {
+	width: 100%;
+	display: inherit;
+	background-color: black;
+}
+
+main {
+	color: #FFFFFF;
+	height: 30em;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"
+}
+h2{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #FBFBFB;
+}
+
+.header.img {
+	float: right;
+}
+nav a{
+	list-style-type: none;
+	display: inline;
+	padding: 20px 49px;
+	text-align: center;
+	text-decoration: none;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"
+} 
+
+nav a:hover{
+	background-color: greenyellow;
+	color: black;
+}
+nav a active{
+	background-color: #FFFFFF;
+	color:blueviolet
+}
+.gif {
+	padding-bottom: inherit;
+}
